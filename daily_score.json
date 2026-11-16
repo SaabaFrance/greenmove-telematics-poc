@@ -1,0 +1,14 @@
+{
+  "date_utc": "2023-03-15",
+  "seuil_m_s2": 2.5,
+  "mesures": 10,
+  "ignorees": 0,
+  "freinages": 1,
+  "evenements": [
+    {
+      "timestamp": 1678880005,
+      "min_y_m_s2": -3.45
+    }
+  ],
+  "score_demo": 90
+}
